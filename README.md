@@ -27,4 +27,4 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-
+-Integrantes Estudiante 1: Juan sebastian Sanchez Delgado (202013577) js.sanchezd1 Estudiante 2: Nicolás Alexander rodriguez Pinilla (20202250) na.rodriguezp1
